@@ -1,0 +1,146 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2018/09/demo-content-import-file_2018-09-04__00-38-19.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2018/09/demo-widgets-import-file_2018-09-04__00-38-19.json
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2018/09/demo-customizer-import-file_2018-09-04__00-38-19.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+------
+Completed AJAX call number: 9
+
+
+------
+Completed AJAX call number: 10
+
+
+------
+Completed AJAX call number: 11
+
+
+------
+Completed AJAX call number: 12
+
+
+------
+Completed AJAX call number: 13
+
+
+------
+Completed AJAX call number: 14
+
+
+------
+Completed AJAX call number: 15
+
+
+------
+Completed AJAX call number: 16
+
+
+------
+Completed AJAX call number: 17
+
+
+------
+Completed AJAX call number: 18
+
+
+------
+Completed AJAX call number: 19
+
+
+------
+Completed AJAX call number: 20
+
+
+------
+Completed AJAX call number: 21
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+RARA: Featured Post - No Title - Imported
+RARA: Author Post - Author Posts - Imported
+RARA: Category Post - Category - Imported
+RARA: Social Links - Follow Us - Imported
+RARA: Recent Post - Recent Posts - Imported
+RARA: Popular Post - Popular Posts - Imported
+RARA: Instagram - Instagram - Imported
+RARA: Facebook Page Plugin - Facebook Page - Imported
+
+Stat Counter Widget Section : 
+
+RARA: Stat Counter Widget - Year Founded - Imported
+RARA: Stat Counter Widget - Merit Scholars - Imported
+RARA: Stat Counter Widget - Degree Programs - Imported
+RARA: Stat Counter Widget - Number of Students - Imported
+
+Newsletter Widget Section : 
+
+Newsletter - Subscribe to Newsletter - Imported
+
+Footer One : 
+
+Text - About Education Zone Pro - Imported
+
+Footer Two : 
+
+RARA: Facebook Page Plugin - Follow Us On Facebook - Imported
+
+Footer Three : 
+
+Navigation Menu - Quick Links - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+

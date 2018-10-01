@@ -1,0 +1,168 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">course</custom-type>
+        <custom-type translate="1">event</custom-type>
+        <custom-type translate="1">team</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">course-category</taxonomy>
+        <taxonomy translate="1">event-category</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="theme_mods_education-zone-pro">
+            <key name="education_zone_pro_load_more_label" />
+            <key name="education_zone_pro_loading_label" />
+            <key name="education_zone_pro_email" />
+            <key name="education_zone_pro_phone_number" />
+            <key name="education_zone_pro_address" />
+            <key name="education_zone_pro_cta_label" />
+            <key name="education_zone_pro_cta_link" />
+            <key name="education_zone_pro_slider_slides">
+                <key name="0">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="1">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="2">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="3">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="4">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="5">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="6">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="7">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="8">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="9">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="10">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="11">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="12">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="13">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="14">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="15">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="16">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="17">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="18">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+                <key name="19">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>
+            </key>
+            <key name="education_zone_pro_slider_readmore" />
+
+            <key name="education_zone_pro_info">
+                <key name="0">
+                    <key name="title" />
+                    <key name="content" />
+                    <key name="link" /> 
+                </key>
+                <key name="1">
+                    <key name="title" />
+                    <key name="content" />
+                    <key name="link" /> 
+                </key>
+                <key name="2">
+                    <key name="title" />
+                    <key name="content" />
+                    <key name="link" /> 
+                </key>
+                <key name="3">
+                    <key name="title" />
+                    <key name="content" />
+                    <key name="link" /> 
+                </key>
+            </key>
+            <key name="education_zone_pro_welcome_section_title" />
+            <key name="education_zone_pro_welcome_section_content" />
+            <key name="education_zone_pro_courses_section_title" />
+            <key name="education_zone_pro_courses_section_content" />
+            <key name="education_zone_pro_courses_readmore" />
+            <key name="education_zone_pro_courses_viewall_label" />
+            <key name="education_zone_pro_courses_viewall_link" />
+            <key name="education_zone_pro_blog_section_title" />
+            <key name="education_zone_pro_blog_section_content" />
+            <key name="education_zone_pro_blog_section_readmore" />
+            <key name="education_zone_pro_blog_viewall_label" />
+            <key name="education_zone_pro_blog_viewall_link" />
+            <key name="education_zone_pro_news_section_title" />
+            <key name="education_zone_pro_news_section_content" />
+            <key name="education_zone_pro_news_readmore" />
+            <key name="education_zone_pro_news_readmore_link" />
+            <key name="education_zone_pro_events_section_title" />
+            <key name="education_zone_pro_events_section_content" />
+            <key name="education_zone_pro_events_readmore" />
+            <key name="education_zone_pro_events_readmore_link" />
+            <key name="education_zone_pro_CTA_section_title" />
+            <key name="education_zone_pro_CTA_content" />
+            <key name="education_zone_pro_CTA_button_text_one" />
+            <key name="education_zone_pro_CTA_button_link_one" />
+            <key name="education_zone_pro_CTA_button_text_two" />
+            <key name="education_zone_pro_CTA_button_link_two" />
+            <key name="education_zone_pro_why_choose_title" />
+            <key name="education_zone_pro_why_choose_content" />
+            <key name="education_zone_pro_team_title" />
+            <key name="education_zone_pro_team_content" />
+            <key name="education_zone_pro_team_viewall_label" />
+            <key name="education_zone_pro_team_viewall_link" />
+            <key name="education_zone_pro_testimonial_section_title" />
+            <key name="education_zone_pro_testimonial_section_content" />
+            <key name="education_zone_pro_testimonial_viewall_label" />
+            <key name="education_zone_pro_testimonial_viewall_link" />
+            <key name="education_zone_pro_post_read_more" />
+            <key name="education_zone_pro_breadcrumb_home_text" />
+            <key name="education_zone_pro_footer_copyright" />
+        </key>
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,4 @@
+/** For hiding video section notice */
+li.notice-info[data-code="video_header_not_available"] {
+    display: none;
+}
